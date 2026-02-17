@@ -1,0 +1,8 @@
+{
+  "name": "Pathway AI",
+  "description": "An AI-powered career growth platform that analyzes resumes, suggests career paths, generates learning roadmaps, and conducts mock interviews using Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
